@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KarloMikic
 - 👀 I’m interested in becoming an advanced Front-end dev.
-- 🌱 I’m currently learning HTML, CSS, Javascript, React, soon TS.
+- 🌱 I’m currently learning HTML, CSS, Javascript, React.
 - 📫 How to reach me => karlo.mikic.dev@gmail.com
 
 <!---
