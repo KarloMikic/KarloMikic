@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KarloMikic
-- 👀 I’m interested in becoming an advanced Front-end dev.
-- 🌱 I’m currently learning HTML, CSS, Javascript, React.
+- 👀 I’m currently working with Oracle APEX on a rent a car business application that relies on relational database.
+- 🌱 Also I’m currently learning HTML, CSS, Javascript, React.
 - 📫 How to reach me => karlo.mikic.dev@gmail.com
 
 <!---
